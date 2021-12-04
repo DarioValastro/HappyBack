@@ -9,9 +9,9 @@ Happyback!
 
 ### Team ###
 
-Aparna Agrawal
-Dario Valastro
-Victor De Chanterac
-Riccardo Belmondo
+* Aparna Agrawal
+* Dario Valastro
+* Victor De Chanterac
+* Riccardo Belmondo
 
 
